@@ -4,7 +4,7 @@
 
 ---
 
-# Search Blueprint - 
+# Search Blueprint 
 
 #### [Video Demo](https://www.youtube.com/watch?v=W8FgcYwF4ZY&feature=youtu.be)
 
