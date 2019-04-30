@@ -4,10 +4,11 @@
 
 ---
 
-# Search Blueprint - [Video Demo](https://www.youtube.com/watch?v=W8FgcYwF4ZY&feature=youtu.be)
+# Search Blueprint - 
 
-### [Product](Phase3/Product.md)
+#### [Video Demo](https://www.youtube.com/watch?v=W8FgcYwF4ZY&feature=youtu.be)
 
-### [Process](Phase3/Process.md)
-
-### [Architecture](Phase3/Architecture.md)
+#### Documention and Development Process:
+- [Product](Phase3/Product.md)
+- [Process](Phase3/Process.md)
+- [Architecture](Phase3/Architecture.md)
